@@ -67,13 +67,13 @@ div.loca{
     flex-wrap: wrap;
     flex-direction:column;
     flex-basis: auto;
-    border: 2px solid red;
+    
     text-align: center;
 margin-right: 20px;
 margin-top: -19px;
 }
 div.meal{
-    border: 2px solid red;
+/*     border: 2px solid red; */
     float: none;
     width: 100%;
     margin-left: 0px;
@@ -87,7 +87,7 @@ div.meal{
     margin-top: 0px;
     text-align: center;
    
-    border: 2px solid red; 
+/*     border: 2px solid red;  */
 
 }
 h1.hg{
